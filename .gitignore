@@ -7,3 +7,11 @@ cross_validation/ncbi-blast-2.12.0+/bin/swissprot
 cross_validation/ncbi-blast-2.12.0+/bin/swissprot.phr
 cross_validation/ncbi-blast-2.12.0+/bin/taxdb.btd
 cross_validation/ncbi-blast-2.12.0+/bin/swissprot.psq
+attention_ablation/split_no-attention/ncbi-blast-2.12.0+/bin/taxdb.btd
+attention_ablation/split_no-attention/ncbi-blast-2.12.0+/bin/swissprot.psq
+attention_ablation/split_no-attention/ncbi-blast-2.12.0+/bin/swissprot.phr
+attention_ablation/split_no-attention/ncbi-blast-2.12.0+/bin/swissprot
+attention_ablation/k-cv_no-attention/ncbi-blast-2.12.0+/bin/taxdb.btd
+attention_ablation/k-cv_no-attention/ncbi-blast-2.12.0+/bin/swissprot.psq
+attention_ablation/k-cv_no-attention/ncbi-blast-2.12.0+/bin/swissprot.phr
+attention_ablation/k-cv_no-attention/ncbi-blast-2.12.0+/bin/swissprot
