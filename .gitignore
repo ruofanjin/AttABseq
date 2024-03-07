@@ -3,3 +3,7 @@ split/ncbi-blast-2.12.0+/bin/swissprot
 split/ncbi-blast-2.12.0+/bin/swissprot.phr
 split/ncbi-blast-2.12.0+/bin/swissprot.psq
 split/ncbi-blast-2.12.0+/bin/taxdb.btd
+cross_validation/ncbi-blast-2.12.0+/bin/swissprot
+cross_validation/ncbi-blast-2.12.0+/bin/swissprot.phr
+cross_validation/ncbi-blast-2.12.0+/bin/taxdb.btd
+cross_validation/ncbi-blast-2.12.0+/bin/swissprot.psq
