@@ -1,0 +1,4 @@
+/var/spool/slurm/d/job358314/slurm_script: line 7:  5568 Bus error               (core dumped) conda activate deepattpan
+Job starts!
+/var/spool/slurm/d/job358314/slurm_script: line 9: python: command not found
+Job ends!
