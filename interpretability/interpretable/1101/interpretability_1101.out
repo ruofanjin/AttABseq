@@ -1,0 +1,3 @@
+Job starts!
+/var/spool/slurm/d/job363591/slurm_script: line 9: 59867 Killed                  python /home/ruofan/bcr/split/interpretable/1101/interpre.py
+Job ends!
