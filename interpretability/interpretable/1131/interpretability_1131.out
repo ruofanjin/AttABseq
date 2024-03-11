@@ -1,0 +1,316 @@
+Job starts!
+/home/ruofan/bcr/split/interpretable/1131/interpre.py:45: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure(figsize=(121, 99)) # ,dpi=100
+pdb name: 1A22
+mutation: B:S83A
+seq mutation: agS_123A
+pdb name: 1A22
+mutation: B:T32A
+seq mutation: agT_72A
+pdb name: 1A22
+mutation: B:T60A
+seq mutation: agT_100A
+pdb name: 1A22
+mutation: B:V126A
+seq mutation: agV_170A
+pdb name: 1A22
+mutation: B:W35A
+seq mutation: agW_75A
+pdb name: 1A22
+mutation: B:W63F
+seq mutation: agW_103F
+pdb name: 1A4Y
+mutation: A:Y434F
+seq mutation: abY_433F
+pdb name: 1A4Y
+mutation: A:Y437A
+seq mutation: abY_436A
+pdb name: 1A4Y
+mutation: A:Y437F
+seq mutation: abY_436F
+pdb name: 1ACB
+mutation: I:L38S
+seq mutation: agL_44S
+pdb name: 1AK4
+mutation: D:P93A
+seq mutation: agP_92A
+pdb name: 1AK4
+mutation: D:V86A
+seq mutation: agV_85A
+pdb name: 1BRS
+mutation: D:W44F
+seq mutation: agW_43F
+pdb name: 1BRS
+mutation: D:Y29A
+seq mutation: agY_28A
+pdb name: 1BRS
+mutation: D:Y29F
+seq mutation: agY_28F
+pdb name: 1CSE
+mutation: I:L38S
+seq mutation: agL_44S
+pdb name: 1EAW
+mutation: A:Y52A
+seq mutation: abY_51A
+pdb name: 1EMV
+mutation: B:V98A
+seq mutation: agV_97A
+pdb name: 1EMV
+mutation: A:Y52A
+seq mutation: abY_53A
+pdb name: 1EMV
+mutation: A:Y53A
+seq mutation: abY_54A
+pdb name: 1F47
+mutation: A:Y5A
+seq mutation: abY_4A
+pdb name: 1FCC
+mutation: C:W43A
+seq mutation: agW_42A
+pdb name: 1FFW
+mutation: A:Y105W
+seq mutation: abY_104W
+pdb name: 1GC1
+mutation: C:S60A
+seq mutation: agS_59A
+pdb name: 1GC1
+mutation: C:T45A
+seq mutation: agT_44A
+pdb name: 1H9D
+mutation: B:V3A
+seq mutation: agV_2A
+pdb name: 1IAR
+mutation: A:W91A
+seq mutation: abW_90A
+pdb name: 1IAR
+mutation: A:W91D
+seq mutation: abW_90D
+pdb name: 1JCK
+mutation: B:Y90A
+seq mutation: agY_89A
+pdb name: 1JTG
+mutation: B:Y143A
+seq mutation: agY_142A
+pdb name: 1JTG
+mutation: B:Y50A
+seq mutation: agY_49A
+pdb name: 1JTG
+mutation: B:Y53A
+seq mutation: agY_52A
+pdb name: 1KTZ
+mutation: A:V62I
+seq mutation: abV_91I
+pdb name: 1KTZ
+mutation: B:V53A
+seq mutation: agV_62A
+pdb name: 1LFD
+mutation: A:R7A
+seq mutation: abR_6A
+pdb name: 1PPF
+mutation: I:Y20D
+seq mutation: agY_19D
+pdb name: 1PPF
+mutation: I:Y20E
+seq mutation: agY_19E
+pdb name: 1PPF
+mutation: I:Y20F
+seq mutation: agY_19F
+pdb name: 1PPF
+mutation: I:Y20G
+seq mutation: agY_19G
+pdb name: 1PPF
+mutation: I:Y20H
+seq mutation: agY_19H
+pdb name: 1PPF
+mutation: I:Y20I
+seq mutation: agY_19I
+pdb name: 1PPF
+mutation: I:Y20K
+seq mutation: agY_19K
+pdb name: 1PPF
+mutation: I:Y20L
+seq mutation: agY_19L
+pdb name: 1PPF
+mutation: I:Y20M
+seq mutation: agY_19M
+pdb name: 1PPF
+mutation: I:Y20N
+seq mutation: agY_19N
+pdb name: 1PPF
+mutation: I:Y20P
+seq mutation: agY_19P
+pdb name: 1PPF
+mutation: I:Y20Q
+seq mutation: agY_19Q
+pdb name: 1PPF
+mutation: I:Y20R
+seq mutation: agY_19R
+pdb name: 1PPF
+mutation: I:Y20S
+seq mutation: agY_19S
+pdb name: 1PPF
+mutation: I:Y20T
+seq mutation: agY_19T
+pdb name: 1PPF
+mutation: I:Y20V
+seq mutation: agY_19V
+pdb name: 1PPF
+mutation: I:Y20W
+seq mutation: agY_19W
+pdb name: 1R0R
+mutation: I:Y15F
+seq mutation: agY_14F
+pdb name: 1R0R
+mutation: I:Y15G
+seq mutation: agY_14G
+pdb name: 1R0R
+mutation: I:Y15H
+seq mutation: agY_14H
+pdb name: 1R0R
+mutation: I:Y15I
+seq mutation: agY_14I
+pdb name: 1R0R
+mutation: I:Y15K
+seq mutation: agY_14K
+pdb name: 1R0R
+mutation: I:Y15L
+seq mutation: agY_14L
+pdb name: 1R0R
+mutation: I:Y15M
+seq mutation: agY_14M
+pdb name: 1R0R
+mutation: I:Y15N
+seq mutation: agY_14N
+pdb name: 1R0R
+mutation: I:Y15P
+seq mutation: agY_14P
+pdb name: 1R0R
+mutation: I:Y15Q
+seq mutation: agY_14Q
+pdb name: 1R0R
+mutation: I:Y15R
+seq mutation: agY_14R
+pdb name: 1R0R
+mutation: I:Y15S
+seq mutation: agY_14S
+pdb name: 1R0R
+mutation: I:Y15T
+seq mutation: agY_14T
+pdb name: 1R0R
+mutation: I:Y15V
+seq mutation: agY_14V
+pdb name: 1R0R
+mutation: I:Y15W
+seq mutation: agY_14W
+pdb name: 1S1Q
+mutation: A:W73A
+seq mutation: abW_74A
+pdb name: 1TM1
+mutation: I:Y42A
+seq mutation: agY_41A
+pdb name: 1TM1
+mutation: I:Y42G
+seq mutation: agY_41G
+pdb name: 1XD3
+mutation: B:R74L
+seq mutation: agR_73L
+pdb name: 1Z7X
+mutation: W:Y437A
+seq mutation: abY_437A
+pdb name: 1Z7X
+mutation: W:Y437F
+seq mutation: abY_437F
+pdb name: 2FTL
+mutation: I:K15W
+seq mutation: agK_14W
+pdb name: 2FTL
+mutation: I:K15Y
+seq mutation: agK_14Y
+pdb name: 2G2U
+mutation: B:Y51A
+seq mutation: agY_50A
+pdb name: 2G2U
+mutation: B:Y53A
+seq mutation: agY_52A
+pdb name: 2J0T
+mutation: D:V69I
+seq mutation: agV_68I
+pdb name: 2J0T
+mutation: D:V69T
+seq mutation: agV_68T
+pdb name: 2O3B
+mutation: B:W76A
+seq mutation: agW_76A
+pdb name: 2PCC
+mutation: A:V197A
+seq mutation: abV_198A
+pdb name: 2SIC
+mutation: I:M67V
+seq mutation: agM_66V
+pdb name: 2WPT
+mutation: A:V34A
+seq mutation: abV_36A
+pdb name: 2WPT
+mutation: B:V91A
+seq mutation: agV_97A
+pdb name: 3BK3
+mutation: C:T6P
+seq mutation: agT_5P
+pdb name: 3SGB
+mutation: I:Y14A
+seq mutation: agY_19A
+pdb name: 3SGB
+mutation: I:Y14C
+seq mutation: agY_19C
+pdb name: 3SGB
+mutation: I:Y14D
+seq mutation: agY_19D
+pdb name: 3SGB
+mutation: I:Y14E
+seq mutation: agY_19E
+pdb name: 3SGB
+mutation: I:Y14F
+seq mutation: agY_19F
+pdb name: 3SGB
+mutation: I:Y14G
+seq mutation: agY_19G
+pdb name: 3SGB
+mutation: I:Y14H
+seq mutation: agY_19H
+pdb name: 3SGB
+mutation: I:Y14I
+seq mutation: agY_19I
+pdb name: 3SGB
+mutation: I:Y14K
+seq mutation: agY_19K
+pdb name: 3SGB
+mutation: I:Y14L
+seq mutation: agY_19L
+pdb name: 3SGB
+mutation: I:Y14M
+seq mutation: agY_19M
+pdb name: 3SGB
+mutation: I:Y14N
+seq mutation: agY_19N
+pdb name: 3SGB
+mutation: I:Y14P
+seq mutation: agY_19P
+pdb name: 3SGB
+mutation: I:Y14Q
+seq mutation: agY_19Q
+pdb name: 3SGB
+mutation: I:Y14R
+seq mutation: agY_19R
+pdb name: 3SGB
+mutation: I:Y14S
+seq mutation: agY_19S
+pdb name: 3SGB
+mutation: I:Y14T
+seq mutation: agY_19T
+pdb name: 3SGB
+mutation: I:Y14V
+seq mutation: agY_19V
+pdb name: 3SGB
+mutation: I:Y14W
+seq mutation: agY_19W
+Job ends!
